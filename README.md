@@ -20,7 +20,7 @@ This project demonstrates advanced state management in React using the useImmer 
 
 ## How to Run
 
-git clone https://github.com/YOUR-USERNAME/shopping-list-immer.git
+git clone https://github.com/PaulinaS123/Assignment-State-Management-with-Immer-in-React.git
 cd shopping-list-immer
 npm install
 npm run dev
