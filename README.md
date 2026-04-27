@@ -1,5 +1,4 @@
 # Assignment-State-Management-with-Immer-in-React
-# Shopping List App with Immer 
 
 ## Author
 Victoria Salomon
