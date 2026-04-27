@@ -30,6 +30,14 @@ npm run dev
 - Immutable state management
 - Array operations (find, splice)
 
+### 1. useImmer Hook
+The `useImmer` hook simplifies state updates by allowing direct mutation of a draft state:
+```js
+updateShoppingList((draft) => {
+  draft.push(newItem);
+});
+```
+
 ## Test Cases
 
 ### Normal Cases
@@ -44,6 +52,3 @@ npm run dev
 
 ## Demo Video
 https://youtu.be/wAxhVI8OrMs
-
-## Author
-Paulina Salomon
